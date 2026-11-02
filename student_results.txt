@@ -1,0 +1,6 @@
+Name: Alice | Marks: [85.0, 90.0, 78.0] | Total: 253.00 | Average: 84.33 | Grade: A
+Name: Bob | Marks: [60.0, 55.0, 70.0] | Total: 185.00 | Average: 61.67 | Grade: C
+Name: Charlie | Marks: [92.0, 95.0, 88.0] | Total: 275.00 | Average: 91.67 | Grade: A+
+Name: David | Marks: [40.0, 45.0, 50.0] | Total: 135.00 | Average: 45.00 | Grade: F
+Name: Eve | Marks: [75.0, 80.0, 82.0] | Total: 237.00 | Average: 79.00 | Grade: B
+if __name__ == "__main__":
